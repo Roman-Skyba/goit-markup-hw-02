@@ -84,7 +84,23 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.strategy-descr {
+.strategy-h {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.punctuality-h {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.punctuality-h {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -99,8 +115,7 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-
-.diligence-descr {
+.diligence-h {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -115,7 +130,7 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.technologies-descr {
+.technologies-h {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -126,24 +141,14 @@ a {
 .team-section {
   background-color: #f4f4fd;
 }
-.team-descr {
+.team-des {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  text-transform: capitalize;
 }
-.team-h {
-  font-weight: 500;g
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #2e2f42;
-}
-
 .team-h {
   font-weight: 500;
   font-size: 20px;
@@ -152,6 +157,7 @@ a {
   text-align: center;
   color: #2e2f42;
 }
+
 .team-descr {
   font-weight: 400;
   font-size: 16px;
