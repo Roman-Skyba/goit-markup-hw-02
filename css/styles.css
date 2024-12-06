@@ -126,8 +126,8 @@ a {
 .team-section {
   background-color: #f4f4fd;
 }
-.team-h {
-  font-weight: 700;
+.team-descr {
+  font-weight: 700;пше
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -136,7 +136,7 @@ a {
   text-transform: capitalize;
 }
 .team-h {
-  font-weight: 500;
+  font-weight: 500;g
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
